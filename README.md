@@ -1,3 +1,5 @@
+<img src="https://images.unsplash.com/photo-1583417319070-4a69db38a482?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80">
+
 <h1 align="center">Hi 👋, I'm t_tsubasa</h1>
 <h3 align="center">I am a software developer from Japan.</h3>
 
@@ -22,6 +24,5 @@
 <div style="margin-top: 20px;">
   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=t-aburasoba&langs_count=8&layout=compact&count_private=true&theme=tokyonight&hide=blade,css,htm" alt="t-aburasoba" /></p>
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=t-aburasoba&theme=tokyonight" alt="t-aburasoba" /></p>
-
 </div>
 

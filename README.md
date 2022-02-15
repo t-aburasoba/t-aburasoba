@@ -1,4 +1,4 @@
-<img src="https://images.unsplash.com/photo-1583417319070-4a69db38a482?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80" style="max-width: 100%; width: 100%;">
+<img src="./photo.png" style="max-width: 100%; width: 100%;">
 
 <h1 align="center">Hi 👋, I'm t_tsubasa</h1>
 <h3 align="center">I am a software developer from Japan.</h3>

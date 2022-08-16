@@ -20,11 +20,5 @@
 </p>
 
 
-<ul style="list-style:none; float:left;">
-  <li>
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=t-aburasoba&langs_count=8&layout=compact&count_private=true&theme=tokyonight&hide=blade,css,htm" alt="t-aburasoba" />
-  </li>
-  <li>
     <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=t-aburasoba&theme=tokyonight" alt="t-aburasoba" />
-  </li>
-</ul>

@@ -52,13 +52,3 @@
 ```
 
     
-
----
-
-![](./4-productive-time.svg)
-
-```
-![](https://raw.githubusercontent.com/t-aburasoba/t-aburasoba/main/profile-summary-card-output/discord_old_blurple/4-productive-time.svg)
-```
-
-    

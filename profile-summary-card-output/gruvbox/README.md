@@ -32,3 +32,13 @@
 ```
 
     
+
+---
+
+![](./2-most-commit-language.svg)
+
+```
+![](https://raw.githubusercontent.com/t-aburasoba/t-aburasoba/main/profile-summary-card-output/gruvbox/2-most-commit-language.svg)
+```
+
+    
